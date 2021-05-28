@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#This script is remake of https://github.com/stevejenkins reboot script but modified by Daniel Lindvall.
+#This script is a remake of https://github.com/stevejenkins reboot script but modified by Daniel Lindvall.
 #The script will reboot any Unifi device. Tested with USG, US-150W, US-AC-PRO.
 
 #Syntax below is for 'IP' 'Reboot privileges' 'Reboot delay'
